@@ -73,26 +73,8 @@ Acredito que aprender programação desde cedo será um grande diferencial para 
 
 ## Meus projetos Importantes
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathanAraujoBila&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/NathanAraujoBila/dio-lab-open-source)
-
-
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.repository_owner }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:           A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake:       Color of the snake
-    #  - color_dots:        Coma separated list of dots color.
-    #                       The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                       Exactly 5 colors are expected.
-    #  - color_background:  Color of the background (for gif only)
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanAraujoBila&repo=clone_discord">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanAraujoBila&repo=Desafio_css">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NathanAraujoBila&repo=Clone_do_Youtube">
+</p>
