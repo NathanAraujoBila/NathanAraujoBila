@@ -40,7 +40,9 @@ Acredito que aprender programação desde cedo será um grande diferencial para 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NathanAraujoBila&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF"/>
 </p>
 
-Caso queira entrar em contato ou acompanhar minha jornada:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanAraujoBila&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Profile views](https://komarev.com/ghpvc/?username=NathanAraujoBila&color=blue)
 
 ## 🌐 Conecte-se comigo
 
@@ -61,11 +63,11 @@ Caso queira entrar em contato ou acompanhar minha jornada:
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 ## Status do Github
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanAraujoBila&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Profile views](https://komarev.com/ghpvc/?username=NathanAraujoBila&color=blue)
 
 ## Meus projetos Importantes
 
