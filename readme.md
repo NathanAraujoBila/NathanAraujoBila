@@ -1,6 +1,13 @@
 <h1 align="center">👋 Olá, eu sou Nathan Araujo Bila</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=30A3DC&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end+em+formação;Apaixonado+por+tecnologia;Construindo+meu+futuro+com+código" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500px">
+</p>
+<p align="center">
   🎓 Estudante do ensino médio <br>
   💻 Desenvolvedor Front-end em formação <br>
   🚀 Construindo meu futuro através da tecnologia
@@ -63,11 +70,6 @@ Acredito que aprender programação desde cedo será um grande diferencial para 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
-## Status do Github
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanAraujoBila&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
 
 ## Meus projetos Importantes
 
