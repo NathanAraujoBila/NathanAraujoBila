@@ -45,11 +45,6 @@ Acredito que aprender programação desde cedo será um grande diferencial para 
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NathanAraujoBila&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanAraujoBila&layout=compact&bg_color=000&border_color=30A3DC&title_color=30A3DC&text_color=FFFFFF"/>
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NathanAraujoBila&show_icons=true&theme=transparent&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=30A3DC&text_color=FFFFFF"/>
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanAraujoBila&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
