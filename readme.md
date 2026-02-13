@@ -1,19 +1,14 @@
 <h1 align="center">👋 Olá, eu sou Nathan Araujo Bila</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=26&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end+em+formação;Apaixonado+por+tecnologia;Construindo+meu+futuro+com+código" />
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500px">
-</p>
-
-<p align="center">
   🎓 Estudante do ensino médio <br>
   💻 Desenvolvedor Front-end em formação <br>
   🚀 Construindo meu futuro através da tecnologia
 </p>
+
+<img width="100%" height="6px" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:4B1E1E&height=6"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4B1E1E,100:8B0000&height=8"/>
 
 ## 🧠 Sobre mim
 
@@ -23,7 +18,7 @@ Atualmente estudo desenvolvimento Front-end e desenvolvo projetos para evoluir m
 
 Acredito que aprender programação desde cedo será um grande diferencial para meu futuro profissional.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4B1E1E,100:8B0000&height=8"/>
 
 ## 🚀 Tecnologias em aprendizado
 
@@ -33,7 +28,7 @@ Acredito que aprender programação desde cedo será um grande diferencial para 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4B1E1E,100:8B0000&height=8"/>
 
 ## 🎯 Objetivos
 
@@ -41,13 +36,24 @@ Acredito que aprender programação desde cedo será um grande diferencial para 
 ✨ Criar projetos cada vez mais profissionais.  
 ✨ Conquistar minha primeira oportunidade na área de tecnologia.  
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4B1E1E,100:8B0000&height=8"/>
 
 ## 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NathanAraujoBila&show_icons=true">
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NathanAraujoBila&show_icons=true&bg_color=0d1117&title_color=A52A2A&icon_color=A52A2A&text_color=ffffff&border_color=8B0000"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NathanAraujoBila&layout=compact&bg_color=0d1117&title_color=A52A2A&text_color=ffffff&border_color=8B0000"/>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=NathanAraujoBila&color=blue)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=A52A2A&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end+em+formação;Construindo+projetos+modernos;Sempre+aprendendo+novas+tecnologias"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NathanAraujoBila&color=8B0000"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4B1E1E,100:8B0000&height=8"/>
 
 ## 🌐 Conecte-se comigo
 
@@ -58,9 +64,10 @@ Acredito que aprender programação desde cedo será um grande diferencial para 
   <a href="mailto:n.araujobila@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
+</p>
 
-  ## Meus projetos Importantes
-
+## 📝 Meus projetos Importantes
+  
 <p align="center">
   <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NathanAraujoBila&repo=clone_discord"/>
   &nbsp;&nbsp;
@@ -68,4 +75,7 @@ Acredito que aprender programação desde cedo será um grande diferencial para 
   &nbsp;&nbsp;
   <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NathanAraujoBila&repo=Clone_do_Youtube"/>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:A52A2A&height=80&section=footer"/>
+
 
