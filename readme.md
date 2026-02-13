@@ -1,13 +1,31 @@
 
-## Nathan Araujo Bila
+#👋 Prazer, eu sou o Nathan!
 
-Sou um estudante de 16 anos, atualmente cursando o ensino médio, eu sou iniciante em programação.
-porém, estou iniciando o bootcamp Ri Happy - Front-end do Zero, e também tenho me interessado bastante por programação graças a minha mãe!💖
+Sou estudante do ensino médio e apaixonado por tecnologia.
+Atualmente estou iniciando minha jornada na programação, com foco em desenvolvimento Front-end.
 
-Creio que isso vai ser um diferencial enorme no meu curriculo
+Estou desenvolvendo habilidades em HTML, CSS e JavaScript e busco evoluir todos os dias.
 
-E caso queira conversar comigo, olha ai minhas redes sociais! 
+Acredito que aprender programação desde cedo será um grande diferencial para meu futuro profissional.
+
+## 📚 Atualmente estudando
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 🎯 Objetivos
+
+- Evoluir como desenvolvedor Front-end.
+- Construir projetos reais.
+- Conseguir minha primeira oportunidade na área de tecnologia.
+
+Caso queira entrar em contato ou acompanhar minha jornada:
+
 ## Conecte-se comigo
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanaraujobila)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NathanAraujoBila)
@@ -20,18 +38,12 @@ E caso queira conversar comigo, olha ai minhas redes sociais!
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nMn6jtBE7a)
 
-## Atualmente estudando
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ## Status do Github
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanAraujoBila&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+![Profile views](https://komarev.com/ghpvc/?username=NathanAraujoBila&color=blue)
+
 ## Meus projetos Importantes
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/NathanAraujoBila/dio-lab-open-source)# Aoba
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NathanAraujoBila&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/NathanAraujoBila/dio-lab-open-source)
