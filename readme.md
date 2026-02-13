@@ -71,9 +71,17 @@ Acredito que aprender programação desde cedo será um grande diferencial para 
 ## 📝 Meus projetos Importantes
 
 <p align="center">
-  <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NathanAraujoBila&repo=clone_discord&bg_color=0d1117&title_color=A52A2A&text_color=ffffff&icon_color=A52A2A&border_color=8B0000"/>
-  <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NathanAraujoBila&repo=Desafio_css&bg_color=0d1117&title_color=A52A2A&text_color=ffffff&icon_color=A52A2A&border_color=8B0000"/>
-  <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NathanAraujoBila&repo=Clone_do_Youtube&bg_color=0d1117&title_color=A52A2A&text_color=ffffff&icon_color=A52A2A&border_color=8B0000"/>
+  <a href="https://github.com/NathanAraujoBila/clone_discord">
+    <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NathanAraujoBila&repo=clone_discord&bg_color=0d1117&title_color=A52A2A&text_color=ffffff&icon_color=A52A2A&border_color=8B0000"/>
+  </a>
+
+  <a href="https://github.com/NathanAraujoBila/Desafio_css">
+    <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NathanAraujoBila&repo=Desafio_css&bg_color=0d1117&title_color=A52A2A&text_color=ffffff&icon_color=A52A2A&border_color=8B0000"/>
+  </a>
+
+  <a href="https://github.com/NathanAraujoBila/Clone_do_Youtube">
+    <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=NathanAraujoBila&repo=Clone_do_Youtube&bg_color=0d1117&title_color=A52A2A&text_color=ffffff&icon_color=A52A2A&border_color=8B0000"/>
+  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:A52A2A&height=80&section=footer"/>
