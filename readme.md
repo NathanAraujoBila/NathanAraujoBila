@@ -68,7 +68,7 @@ Acredito que aprender programação desde cedo será um grande diferencial para 
   </a>
 </p>
 
-## 📝 Meus projetos Importantes
+## 📝 Meus projetos Importantes 
 
 <p align="center">
   <a href="https://github.com/NathanAraujoBila/clone_discord">
